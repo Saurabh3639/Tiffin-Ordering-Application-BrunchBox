@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Brunch Box</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string-array name="State">
+        <item>Maharashtra</item>
+        <!--<item></item>-->
+    </string-array>
+
+    <string-array name="shipper">
+        <item>Jim Button</item>
+        <item>Shipper 2</item>
+    </string-array>
+
+    <string-array name="DishName">
+        <item>Small Veg Tiffin</item>
+        <item>Medium Veg Tiffin</item>
+        <item>Large Veg Tiffin</item>
+        <item>Small Non Veg Tiffin</item>
+        <item>Medium Non Veg Tiffin</item>
+        <item>Large Non Veg Tiffin</item>
+    </string-array>
+</resources>
